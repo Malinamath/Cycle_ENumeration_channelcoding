@@ -1,0 +1,4 @@
+﻿  adjency.cpp
+C:\Users\masoa\source\repos\Project12\Project12\adjency.cpp(10,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\masoa\source\repos\Project12\Project12\adjency.cpp(11,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project12.vcxproj -> C:\Users\masoa\source\repos\Project12\x64\Debug\Project12.exe
